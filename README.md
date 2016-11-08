@@ -9,6 +9,8 @@ fcn使用fcn公网数据服务器以及数据加密技术，将用户客户端�
 
 fcn = `fcn_server` + `fcn_client`
 
+* download fcn_beta binary https://github.com/boywhp/fcn/releases/download/fcn_beta1/fcn_beta.ZIP
+
 ## fcn_server
 
 目前支持linux x86 + x64平台，arm平台待支持中, 下一步考虑添加windows服务器接入支持
