@@ -11,6 +11,10 @@ fcn = `fcn_server` + `fcn_client`
 
 * download fcn_beta binary https://github.com/boywhp/fcn/releases/download/fcn_beta1/fcn_beta.ZIP
 
+* fcn接入原理示意图
+
+![image](https://raw.githubusercontent.com/boywhp/fcn/master/FCN%E5%85%AC%E7%BD%91%E6%9C%8D%E5%8A%A1%E5%99%A8.png)
+
 ## fcn_server
 
 目前支持linux x86 + x64平台，arm平台待支持中, 下一步考虑添加windows服务器接入支持
