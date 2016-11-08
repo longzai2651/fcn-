@@ -13,7 +13,7 @@ fcn = `fcn_server` + `fcn_client`
 
 * fcn接入原理示意图
 
-![image](https://raw.githubusercontent.com/boywhp/fcn/master/FCN%E5%85%AC%E7%BD%91%E6%9C%8D%E5%8A%A1%E5%99%A8.png)
+![image](https://raw.githubusercontent.com/boywhp/fcn/master/img/FCN%E7%BD%91%E7%BB%9C%E7%A4%BA%E6%84%8F%E5%9B%BE.png)
 
 ## fcn_server
 
