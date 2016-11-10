@@ -52,8 +52,8 @@ fcn = `fcn_server` + `fcn_client`
 
 ROOT权限运行
 ```shell
-./client            # 命令行形式直接运行,临时测试
-nohup ./client &    # 在后台运行
+./server            # 命令行形式直接运行,临时测试
+nohup ./server &    # 在后台运行
 ```
 
 ## 2.2 运行windows客户端
