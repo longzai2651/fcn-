@@ -9,11 +9,11 @@ fcn使用fcn公网数据服务器以及数据加密技术，将用户客户端�
 
 fcn = `fcn_server` + `fcn_client`
 
-* download fcn_beta binary https://github.com/boywhp/fcn/releases/download/fcn_beta3/fcn_beta.zip
+* download fcn_beta binary https://github.com/boywhp/fcn/releases/download/fcn_beta4/fcn_beta4.zip
 
 * fcn接入原理示意图
 
-![image](https://raw.githubusercontent.com/boywhp/fcn/master/img/FCN%E7%BD%91%E7%BB%9C%E7%A4%BA%E6%84%8F%E5%9B%BE.png)
+![image](https://github.com/boywhp/fcn/raw/master/FCN%E7%BD%91%E7%BB%9C%E7%A4%BA%E6%84%8F%E5%9B%BE.png)
 
 ## fcn_server
 
@@ -47,6 +47,7 @@ fcn = `fcn_server` + `fcn_client`
 | [uid] | FCN_[0001-9999] 8字符用户ID *必填
 | [name] | 服务器名,程序通过该名称标示服务器, 同一个uid不可重复
 | [psk]| 连接密码, 建议不填, 由服务端启动时随机生成
+| [udp]| 0/1, 设置数据包通信类型 1走UDP 53 2 走TCP 8080
 | [nat_nic] | 虚拟接入后连接的服务器网卡名, 建议不填
 | [dhcp_ip/dhcp_mask] |  虚拟接入后DHCP网段, 建议不填
 
