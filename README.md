@@ -51,7 +51,7 @@ fcn = `fcn_server` + `fcn_client`
 | [nat_nic] | 虚拟接入后连接的服务器网卡名, 建议不填
 | [dhcp_ip/dhcp_mask] |  虚拟接入后DHCP网段, 建议不填
 
-x由于需要操作底层网络数据转发,需要ROOT权限运行
+由于需要操作底层网络数据转发,需要ROOT权限运行
 ```shell
 ./server      # ROOT用户直接运行
 sudo ./server # 非ROOT用户使用sudo运行
