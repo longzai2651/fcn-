@@ -9,7 +9,7 @@ fcn使用fcn公网数据服务器以及数据加密技术，将用户客户端�
 
 fcn = `fcn_server` + `fcn_client`
 
-* download fcn_beta binary https://github.com/boywhp/fcn/releases/download/fcn_beta4/fcn_beta4.zip
+* download fcn_beta binary https://github.com/boywhp/fcn/releases/download/fcn_beta5/FCN_Beta_Release.zip
 
 * fcn接入原理示意图
 
@@ -51,10 +51,10 @@ fcn = `fcn_server` + `fcn_client`
 | [nat_nic] | 虚拟接入后连接的服务器网卡名, 建议不填
 | [dhcp_ip/dhcp_mask] |  虚拟接入后DHCP网段, 建议不填
 
-ROOT权限运行
+x由于需要操作底层网络数据转发,需要ROOT权限运行
 ```shell
-./server            # 命令行形式直接运行,临时测试
-nohup ./server &    # 在后台运行
+./server      # ROOT用户直接运行
+sudo ./server # 非ROOT用户使用sudo运行
 ```
 
 ## 2.2 运行windows客户端
