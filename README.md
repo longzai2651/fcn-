@@ -9,7 +9,11 @@ fcn使用fcn公网数据服务器以及数据加密技术，将用户客户端�
 
 fcn = `fcn_server` + `fcn_client`
 
-* download fcn_beta binary https://github.com/boywhp/fcn/releases/download/beta6/FCN_Beta_Release.zip
+* download fcn_beta binary 
+  
+  github https://github.com/boywhp/fcn/releases/download/beta6/FCN_Beta_Release.zip
+  
+  百度网盘 https://pan.baidu.com/s/1dENMcHr
 
 * fcn接入原理示意图
 
