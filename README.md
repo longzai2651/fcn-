@@ -15,6 +15,8 @@ fcn = `fcn_server` + `fcn_client`
   
   百度网盘 https://pan.baidu.com/s/1dENMcHr
 
+  FCN树莓派3启动服务端操作视频 http://my.tv.sohu.com/us/71649360/85990877.shtml
+  
   FCN客户端接入树莓派3操作视频 http://my.tv.sohu.com/us/71649360/85974995.shtml
   
 * fcn接入原理示意图
