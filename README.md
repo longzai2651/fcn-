@@ -11,17 +11,17 @@ fcn = `fcn_server` + `fcn_client`
 
 * download fcn_beta binary 
   
-  github https://github.com/boywhp/fcn/releases/download/beta6/FCN_Beta_Release.zip
+github https://github.com/boywhp/fcn/releases/download/beta6/FCN_Beta_Release.zip
   
-  百度网盘 https://pan.baidu.com/s/1dENMcHr
+百度网盘 https://pan.baidu.com/s/1dENMcHr
 
-  FCN使用交流QQ群: `592512533`
-  
+* FCN使用交流QQ群: `592512533`
+
 * FCN树莓派3操作视频
 
-  FCN树莓派3启动服务端操作视频 http://my.tv.sohu.com/us/71649360/85990877.shtml
+FCN树莓派3启动服务端操作视频 http://my.tv.sohu.com/us/71649360/85990877.shtml
   
-  FCN客户端接入树莓派3操作视频 http://my.tv.sohu.com/us/71649360/85974995.shtml
+FCN客户端接入树莓派3操作视频 http://my.tv.sohu.com/us/71649360/85974995.shtml
   
 * fcn接入原理示意图
 
