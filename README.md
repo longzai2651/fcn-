@@ -15,7 +15,7 @@ fcn = `fcn_server` + `fcn_client`
   
   百度网盘 https://pan.baidu.com/s/1dENMcHr
 
-  FCN使用交流QQ群: 592512533
+  FCN使用交流QQ群: `592512533`
   
 * FCN树莓派3操作视频
 
