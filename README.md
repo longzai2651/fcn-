@@ -11,9 +11,9 @@ fcn = `fcn_server` + `fcn_client`
 
 * download fcn_beta binary 
   
-github https://github.com/boywhp/fcn/releases/download/beta6/FCN_Beta_Release.zip
+github https://github.com/boywhp/fcn/releases/download/beta7/FCN_Beta_Release_p2p.zip
   
-百度网盘 https://pan.baidu.com/s/1dENMcHr
+百度网盘 https://pan.baidu.com/s/1gfqPlDL
 
 * FCN使用交流QQ群: `592512533`
 
@@ -80,9 +80,9 @@ sudo ./server # 非ROOT用户使用sudo运行
 
 ## 3.1 fcn通信安全机制
 
-fcn使用了数字证书、tls以及aes 256bit加密技术，用户网络数据全程加密，5分钟左右自动更新会话密钥，确保用户数据不会被截获解密或者中间人欺骗。
+fcn使用了数字证书、tls以及aes 256bit加密技术，点对点通信技术, 用户网络数据全程加密，5分钟左右自动更新会话密钥，确保用户数据不会被截获解密或者中间人欺骗。
 
-fcn公网服务器不会收集用户的任何网络数据，后期考虑开放用户加密接口，以便用户实现自定义的端到端私有加密。
+fcn公网服务器不会收集用户的任何网络数据，同时支持用户网络数据强制点对点通信。后期考虑开放用户加密接口，以便用户实现自定义的端到端私有加密。
 
 ## 3.2 fcn本地安全
 
