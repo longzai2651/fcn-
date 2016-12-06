@@ -11,9 +11,9 @@ fcn = `fcn_server` + `fcn_client`
 
 * download fcn_beta binary 
   
-github https://github.com/boywhp/fcn/releases/download/beta7/FCN_Beta_Release_p2p.zip
+github https://github.com/boywhp/fcn/releases/download/beta8/FCN_Beta_Release_p2p.zip
   
-百度网盘 https://pan.baidu.com/s/1gfqPlDL
+百度网盘 http://pan.baidu.com/s/1bZy8gu
 
 * FCN使用交流QQ群: `592512533`
 
