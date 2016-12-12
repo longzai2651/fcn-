@@ -11,9 +11,9 @@ fcn = `fcn_server` + `fcn_client`
 
 * download fcn_beta binary 
   
-github https://github.com/boywhp/fcn/releases/download/beta8/FCN_Beta_Release_p2p.zip
+github https://github.com/boywhp/fcn/releases/download/beta9/FCN_Beta_Release.zip
   
-百度网盘 http://pan.baidu.com/s/1bZy8gu
+百度网盘 http://pan.baidu.com/s/1dFzbmZB
 
 * FCN使用交流QQ群: `592512533`
 
@@ -29,13 +29,14 @@ FCN客户端接入树莓派3操作视频 http://my.tv.sohu.com/us/71649360/85974
 
 ## fcn_server
 
-目前支持linux x86 + x64 + arm平台，下一步考虑添加windows服务器接入支持
+目前支持linux x86 + x64 + arm + openwrt-mips平台，下一步考虑添加windows服务器接入支持
 
 |文件位置|描述
 |-------|---
 |server_linux\ `server32` | 接入服务器x86平台bin
 |server_linux\ `server` | 接入服务器x64平台bin
 |server_linux\ `server-arm` | 接入服务器arm平台bin [PI3测试通过]
+|server_linux\ `server-openwrt` | 接入服务器openwrt mips平台bin [TPLINK WR703N测试通过]
 |server_linux\ `server.conf` | 服务器配置文件
 
 ## fcn_client
