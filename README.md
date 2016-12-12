@@ -39,6 +39,8 @@ FCN客户端接入树莓派3操作视频 http://my.tv.sohu.com/us/71649360/85974
 |server_linux\ `server-openwrt` | 接入服务器openwrt mips平台bin [TPLINK WR703N测试通过]
 |server_linux\ `server.conf` | 服务器配置文件
 
+注：openwrt需安装kmod-tun组件
+
 ## fcn_client
 
 目前只支持windows x86/x64 
