@@ -74,7 +74,7 @@ sudo ./server # 非ROOT用户使用sudo运行
 
 ## 2.2 运行windows客户端
 
-主界面添加服务器,填写对应的连接参数,连接,成功后,windows客户端即接入了服务器对应局域网, 客户端和服务端参数对应如下
+主界面添加服务器, 填写对应的连接参数, 连接, 成功后, windows客户端即接入了服务器对应局域网, 客户端/服务端参数对应如下
 
 ![image](https://github.com/boywhp/fcn/blob/master/FCN%E7%BD%91%E7%BB%9C%E5%8F%82%E6%95%B0.png)
 
