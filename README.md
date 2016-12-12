@@ -70,10 +70,13 @@ FCN客户端接入树莓派3操作视频 http://my.tv.sohu.com/us/71649360/85974
 ./server      # ROOT用户直接运行
 sudo ./server # 非ROOT用户使用sudo运行
 ```
+注:FCN服务端只能运行一个实体, 更改配置后, 需要kill掉旧的进程, 否则会初始化失败错误
 
 ## 2.2 运行windows客户端
 
-主界面添加服务器,填写对应的连接参数,连接,成功后,windows客户端即接入了服务器对应局域网
+主界面添加服务器,填写对应的连接参数,连接,成功后,windows客户端即接入了服务器对应局域网, 客户端和服务端参数对应如下
+
+![image](https://github.com/boywhp/fcn/blob/master/FCN%E7%BD%91%E7%BB%9C%E5%8F%82%E6%95%B0.png)
 
 注:第一次连接时会自动安装虚拟网卡驱动,需用户确认同意
 
