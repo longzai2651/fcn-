@@ -13,7 +13,7 @@ fcn = `fcn_server` + `fcn_client`
   
 github https://github.com/boywhp/fcn/releases/download/beta10/FCN_Beta10.zip
   
-百度网盘 https://pan.baidu.com/s/1midOwPU
+百度网盘 https://pan.baidu.com/s/1eSmOd82
 
 * FCN使用交流QQ群: `592512533`
 
@@ -66,6 +66,8 @@ FCN客户端接入树莓派3操作视频 http://my.tv.sohu.com/us/71649360/85974
 | [udp]| 0/1, 设置数据包通信类型 1走UDP 53 2 走TCP 8080，建议不填使用UDP[`点对点通信必须使用UDP`]
 | [nat_nic] | 虚拟接入后连接的服务器网卡名, 建议不填
 | [dhcp_ip/dhcp_mask] |  虚拟接入后DHCP网段, 建议不填
+| [uport]| 自定义udp通信端口, 默认5000，自定义[1000-2000], 建议不填
+| [tport]| 自定义tcp通信端口, 默认8000，自定义[1000-2000], 建议不填
 
 由于需要操作底层网络数据转发,需要ROOT权限运行
 ```shell
