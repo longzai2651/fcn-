@@ -76,7 +76,23 @@ sudo ./server # 非ROOT用户使用sudo运行
 ```
 注:FCN服务端只能运行一个实体, 更改配置后, 需要kill掉旧的进程, 否则会初始化失败错误
 
-## 2.2 运行windows客户端
+## 2.2 开机自启动[Thanks to 榭寄生], debian linux环境
+
+* 建立启动脚本 fcn.sh, 内容如下:
+
+```bash
+#!/bin/sh
+cd /home/pi/your_fcn_dir/
+sudo ./server-arm
+```
+
+* 添加执行权限 chmod +x fcn.sh
+ 
+* 创建软链接 ln -s /home/pi/your_fcn_dir/fcn.sh /etc/init.d/fcn
+
+* 添加自启动 update-rc.d fcn defaults 99
+
+## 2.3 运行windows客户端
 
 主界面添加服务器, 填写对应的连接参数, 连接, 成功后, windows客户端即接入了服务器对应局域网, 客户端/服务端参数对应如下
 
