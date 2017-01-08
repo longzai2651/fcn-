@@ -9,9 +9,9 @@ fcn使用fcn公网数据服务器以及数据加密技术，将用户客户端�
 
 fcn = `fcn_server` + `fcn_client`
 
-* download FCN V1.01beta binary 
+* download FCN V1.1beta binary 
   
-github https://github.com/boywhp/fcn/releases/download/V1.01/V1.01Beta.zip
+github https://github.com/boywhp/fcn/releases/download/V1.1/V1.1Beta.zip
   
 百度网盘 https://pan.baidu.com/s/1jHIURyA
 
@@ -63,9 +63,9 @@ FCN客户端接入树莓派3操作视频 http://my.tv.sohu.com/us/71649360/85974
 | [uid] | FCN_[0001-9999] 8字符用户ID *必填
 | [name] | 服务器名,程序通过该名称标示服务器, 同一个uid不可重复，建议填写唯一标识
 | [psk]| 连接密码, 由服务端启动时随机生成，建议不填
-| [udp]| 0/1, 设置数据包通信类型  0:TCP 1:UDP，建议不填使用UDP[`点对点通信必须使用UDP`]
+| [udp]| 0/1, 设置数据包通信类型  0:TCP 1:UDP，建议不填使用UDP
 | [nat_nic] | 虚拟接入后连接的服务器网卡名, 建议不填
-| [dhcp_ip/dhcp_mask] |  虚拟接入后DHCP网段, 建议不填
+| [dhcp_ip/dhcp_mask/dhcp_dns] |  虚拟接入后DHCP网段, DHCP DNS服务器地址, 建议不填
 | [uport]| 自定义udp通信端口, 默认5000，自定义[1000-2000], 建议不填
 | [tport]| 自定义tcp通信端口, 默认8000，自定义[1000-2000], 建议不填
 
