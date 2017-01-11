@@ -68,6 +68,7 @@ FCN客户端接入树莓派3操作视频 http://my.tv.sohu.com/us/71649360/85974
 | [dhcp_ip/dhcp_mask/dhcp_dns] |  虚拟接入后DHCP网段, DHCP DNS服务器地址, 建议不填
 | [uport]| 自定义udp通信端口, 默认5000，自定义[1000-2000], 建议不填
 | [tport]| 自定义tcp通信端口, 默认8000，自定义[1000-2000], 建议不填
+| [fcn_svr]| 设置公网FCN服务器地址,默认s1.xfconnect.com, 建议不填
 
 由于需要操作底层网络数据转发,需要ROOT权限运行
 ```shell
