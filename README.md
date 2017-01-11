@@ -13,7 +13,7 @@ fcn = `fcn_server` + `fcn_client`
   
 github https://github.com/boywhp/fcn/releases/download/V1.1/V1.1Beta.zip
   
-百度网盘 https://pan.baidu.com/s/1jIFN84u
+百度网盘 https://pan.baidu.com/s/1bG3IAa
 
 * FCN使用交流QQ群: `592512533`
 
