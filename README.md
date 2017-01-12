@@ -9,11 +9,11 @@ fcn使用fcn公网数据服务器以及数据加密技术，将用户客户端�
 
 fcn = `fcn_server` + `fcn_client`
 
-* download FCN V1.1beta binary 
+* download FCN V1.1 binary 
   
-github https://github.com/boywhp/fcn/releases/download/V1.1/V1.1Beta.zip
+github https://github.com/boywhp/fcn/releases/download/V1.1/FCN_V1.1.zip
   
-百度网盘 https://pan.baidu.com/s/1bG3IAa
+百度网盘 https://pan.baidu.com/s/1o7MkYeu
 
 * FCN使用交流QQ群: `592512533`
 
