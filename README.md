@@ -11,9 +11,9 @@ fcn = `fcn_server` + `fcn_client`
 
 * download V2.1 for Windows Beta binary
 
-github https://github.com/boywhp/fcn/releases/download/V2.1/fcn_win_beta.rar
+github https://github.com/boywhp/fcn/releases/download/V2.1/fcn_win_beta.zip
 
-百度网盘 https://pan.baidu.com/s/1c2kUXqg
+百度网盘 https://pan.baidu.com/s/1hsytUVM
 
 FCN windows桥接演示视频 http://v-wb.youku.com/v_show/id_XMjUxNTM5NTU1Ng==.html
 
