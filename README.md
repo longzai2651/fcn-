@@ -9,11 +9,13 @@ fcn使用fcn公网数据服务器以及数据加密技术，将用户客户端�
 
 fcn = `fcn_server` + `fcn_client`
 
-* download V2.0 for Windows Beta binary
+* download V2.1 for Windows Beta binary
 
-github https://github.com/boywhp/fcn/releases/download/V2.0/fcn_win_2.0_beta.zip
+github https://github.com/boywhp/fcn/releases/download/V2.1/fcn_win_beta.rar
 
-百度网盘 https://pan.baidu.com/s/1bp3Tllt
+百度网盘 https://pan.baidu.com/s/1c2kUXqg
+
+FCN windows桥接演示视频 http://v-wb.youku.com/v_show/id_XMjUxNTM5NTU1Ng==.html
 
 * download FCN V1.1 binary 
   
