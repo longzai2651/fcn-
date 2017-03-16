@@ -33,12 +33,12 @@ FCN树莓派3启动服务端操作视频 http://my.tv.sohu.com/us/71649360/85990
 
 |文件位置|描述
 |-------|---
-|server_linux\ `server32` | 接入服务器x86平台bin
-|server_linux\ `server` | 接入服务器x64平台bin
-|server_linux\ `server-arm` | 接入服务器arm平台bin [PI3测试通过]
-|server_linux\ `server-armbian` | 接入服务器armbian平台bin [Orange Pi测试通过]
-|server_linux\ `server-openwrt` | 接入服务器openwrt mips平台bin [TPLINK WR703N测试通过]
-|server_linux\ `server.conf` | 服务器配置文件
+|linux\ `server32` | 接入服务器x86平台bin
+|linux\ `server` | 接入服务器x64平台bin
+|linux\ `server-arm` | 接入服务器arm平台bin [PI3测试通过]
+|linux\ `server-armbian` | 接入服务器armbian平台bin [Orange Pi测试通过]
+|linux\ `server-openwrt` | 接入服务器openwrt mips平台bin [TPLINK WR703N测试通过]
+|linux\ `server.conf` | 服务器配置文件
 
 注：openwrt需安装kmod-tun组件
 
@@ -48,8 +48,7 @@ FCN树莓派3启动服务端操作视频 http://my.tv.sohu.com/us/71649360/85990
 
 |文件位置|描述
 |-------|---
-|client_windows\ `x86` | 接入客户端x86平台bin
-|client_windows\ `x64` | 接入客户端x64平台bin
+|windows\ `fcn_win.exe` | FCN windows版， 整合服务器、客户端
 
 # 2. fcn使用
 
