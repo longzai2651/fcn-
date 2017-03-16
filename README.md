@@ -36,6 +36,7 @@ FCN树莓派3启动服务端操作视频 http://my.tv.sohu.com/us/71649360/85990
 |server_linux\ `server32` | 接入服务器x86平台bin
 |server_linux\ `server` | 接入服务器x64平台bin
 |server_linux\ `server-arm` | 接入服务器arm平台bin [PI3测试通过]
+|server_linux\ `server-armbian` | 接入服务器armbian平台bin [Orange Pi测试通过]
 |server_linux\ `server-openwrt` | 接入服务器openwrt mips平台bin [TPLINK WR703N测试通过]
 |server_linux\ `server.conf` | 服务器配置文件
 
