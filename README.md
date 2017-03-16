@@ -27,9 +27,9 @@ FCN树莓派3启动服务端操作视频 http://my.tv.sohu.com/us/71649360/85990
 
 ![image](https://github.com/boywhp/fcn/raw/master/FCN%E7%BD%91%E7%BB%9C%E7%A4%BA%E6%84%8F%E5%9B%BE.png)
 
-## fcn_server
+## linux
 
-目前支持linux x86 + x64 + arm + openwrt-mips平台，下一步考虑添加windows服务器接入支持
+目前支持linux x86 + x64 + arm + armbian + openwrt-mips平台
 
 |文件位置|描述
 |-------|---
@@ -42,9 +42,9 @@ FCN树莓派3启动服务端操作视频 http://my.tv.sohu.com/us/71649360/85990
 
 注：openwrt需安装kmod-tun组件
 
-## fcn_client
+## windows
 
-目前只支持windows x86/x64 
+目前只支持windows x86/x64, 服务器功能需Windows Vista以上系统
 
 |文件位置|描述
 |-------|---
