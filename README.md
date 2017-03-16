@@ -9,27 +9,19 @@ fcn使用fcn公网数据服务器以及数据加密技术，将用户客户端�
 
 fcn = `fcn_server` + `fcn_client`
 
-* download V2.1 for Windows Beta binary
+* download FCN V2.1 binary
 
-github https://github.com/boywhp/fcn/releases/download/V2.1/fcn_win_beta.zip
+github https://github.com/boywhp/fcn/releases/download/V2.1/FCN_V2.1.zip
 
-百度网盘 https://pan.baidu.com/s/1hsytUVM
+百度网盘 https://pan.baidu.com/s/1i5fv0yh
 
 FCN windows桥接演示视频 http://v-wb.youku.com/v_show/id_XMjUxNTM5NTU1Ng==.html
-
-* download FCN V1.1 binary 
-  
-github https://github.com/boywhp/fcn/releases/download/V1.1/FCN_V1.1.zip
-  
-百度网盘 https://pan.baidu.com/s/1o7MkYeu
 
 * FCN使用交流QQ群: `592512533`
 
 * FCN树莓派3操作视频
 
 FCN树莓派3启动服务端操作视频 http://my.tv.sohu.com/us/71649360/85990877.shtml
-  
-FCN客户端接入树莓派3操作视频 http://my.tv.sohu.com/us/71649360/85974995.shtml
   
 * fcn接入原理示意图
 
@@ -91,7 +83,6 @@ sudo ./server # 非ROOT用户使用sudo运行
 
 ```bash
 #!/bin/sh
-cd /home/pi/your_fcn_dir/
 sudo ./server-arm
 ```
 
@@ -113,7 +104,7 @@ sudo ./server-arm
 
 ## 3.1 fcn通信安全机制
 
-fcn使用了数字证书、tls以及aes 256bit加密技术，点对点通信技术, 用户网络数据全程加密，5分钟左右自动更新会话密钥，确保用户数据不会被截获解密或者中间人欺骗。
+fcn使用了数字证书、tls以及aes 256bit加密技术，点对点通信技术, 用户网络数据全程加密，10分钟左右自动更新会话密钥，确保用户数据不会被截获解密或者中间人欺骗。
 
 fcn公网服务器不会收集用户的任何网络数据，同时支持用户网络数据强制点对点通信。后期考虑开放用户加密接口，以便用户实现自定义的端到端私有加密。
 
