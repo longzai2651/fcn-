@@ -44,7 +44,7 @@ FCN树莓派3启动服务端操作视频 http://my.tv.sohu.com/us/71649360/85990
 
 ## windows
 
-目前只支持windows x86/x64, 服务器功能需Windows Vista以上系统
+客户端功能支持windows x86/x64 XP SP3以上版本, 服务器功能需Windows Vista以上系统，由于桥接64位驱动使用sha2签名，Windows 7需安装`KB3033929`补丁
 
 |文件位置|描述
 |-------|---
