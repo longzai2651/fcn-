@@ -83,7 +83,7 @@ sudo ./server # 非ROOT用户使用sudo运行
 
 ```bash
 #!/bin/sh
-sudo ./server-arm
+/home/pi/server-arm
 ```
 
 * 添加执行权限 chmod +x fcn.sh
