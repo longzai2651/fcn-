@@ -21,7 +21,7 @@ github https://github.com/boywhp/fcn/releases/download/V2.1/FCN_V2.1.zip
 
 github https://github.com/boywhp/fcn/releases/download/V2.1.1/FCN_V2.1.1.zip
 
-百度网盘 https://pan.baidu.com/s/1o8Ljqoq
+百度网盘 https://pan.baidu.com/s/1kVQFeg3
 
 * FCN操作视频
 
