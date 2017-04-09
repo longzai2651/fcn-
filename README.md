@@ -17,13 +17,15 @@ github https://github.com/boywhp/fcn/releases/download/V2.1/FCN_V2.1.zip
 
 百度网盘 https://pan.baidu.com/s/1i5fv0yh
 
-* download FCN V2.1.1 Beta binary
+* download FCN V2.2 Beta binary
 
-github https://github.com/boywhp/fcn/releases/download/V2.1.1/FCN_V2.1.1.zip
+github https://github.com/boywhp/fcn/releases/download/V2.2/V2.2.zip
 
-百度网盘 https://pan.baidu.com/s/1kVQFeg3
+百度网盘 https://pan.baidu.com/s/1qYDEzz2
 
 * FCN操作视频
+
+FCN 链路聚合演示视频 http://v.youku.com/v_show/id_XMjY5MzU1NTQwNA==.html
 
 FCN windows桥接演示视频 http://v-wb.youku.com/v_show/id_XMjUxNTM5NTU1Ng==.html
 
