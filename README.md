@@ -11,11 +11,11 @@ fcn = `fcn_server` + `fcn_client`
 
 * FCN使用交流QQ群: `592512533`
 
-* download FCN V2.2 binary
+* download FCN V2.3 binary
 
-github https://github.com/boywhp/fcn/releases/download/V2.2/FCN_V2.2.zip
+github https://github.com/boywhp/fcn/releases/download/V2.3/FCN_V2.3.zip
 
-百度网盘 https://pan.baidu.com/s/1hrQ6fB2
+百度网盘 https://pan.baidu.com/s/1o8dlOIe
 
 * FCN操作视频
 
