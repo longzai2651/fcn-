@@ -15,7 +15,7 @@ fcn = `fcn_server` + `fcn_client`
 
 github https://github.com/boywhp/fcn/releases/download/V2.4_Beta/FCNV2.4_Beta.zip
 
-百度网盘 https://pan.baidu.com/s/1c2u2ePE
+百度网盘 https://pan.baidu.com/s/1c2u2ePE 提取码:2th8
 
 * download FCN V2.3 binary
 
