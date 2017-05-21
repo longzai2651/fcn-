@@ -15,9 +15,13 @@ fcn = `fcn_server` + `fcn_client`
 
 github https://github.com/boywhp/fcn/releases/download/V2.4/FCN_V2.4.zip
 
+百度网盘 https://pan.baidu.com/s/1sl2jomD
+
 * download FCN V2.4 嵌入式Linux版本
 
 github https://github.com/boywhp/fcn/releases/download/V2.4_embed/FCN_V2.4-embedded.zip
+
+百度网盘 https://pan.baidu.com/s/1hsf0Uf6
 
 * FCN支持操作系统平台
 
