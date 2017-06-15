@@ -33,19 +33,9 @@ github https://github.com/boywhp/fcn/releases/download/V2.4_embed/FCN_V2.4-embed
 | Linux openwrt | linux-embedded/fcn-openwrt-`mips mt7620`
 | Linux arm | linux-embedded/`fcn-arm armbian`
 
-Linux openwrt WR703N、华硕N14U Openwrt/Padavan实测通过，openwrt需安装`kmod-tun组件`
+Linux openwrt WR703N、华硕N14U、斐讯K2 Openwrt/Padavan实测通过，openwrt需安装`kmod-tun组件`
 
 Linux arm/armbian 树莓派3、Orange Pi实测通过
-
-* FCN操作视频
-
-FCN 局域网互联演示视频 http://v-wb.youku.com/v_show/id_XMjc3NTk0MTMwNA==.html
-
-FCN 链路聚合演示视频 http://v.youku.com/v_show/id_XMjY5MzU1NTQwNA==.html
-
-FCN windows桥接演示视频 http://v-wb.youku.com/v_show/id_XMjUxNTM5NTU1Ng==.html
-
-FCN树莓派3启动服务端操作视频 http://my.tv.sohu.com/us/71649360/85990877.shtml
 
 * fcn接入原理示意图
 
@@ -135,8 +125,3 @@ fcn公网服务器不会收集用户的任何网络数据，同时支持用户�
 
 fcn二进制文件发布前经过针对性的混淆加密处理，尽可能防止用户的加密配置文件被黑客攻击解密。
 
-## 3.3 fcn是专业软件
-
-fcn软件作者是boywhp，从事网络安全行业多年，是看雪安全论坛（bbs.pediy.com）高级会员，在业界发表过多篇网络安全技术文章。
-
-当然作者也深知在网络攻防上，没有绝对的安全，因此在这里还请各位同行手下留情。
