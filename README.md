@@ -10,19 +10,18 @@ fcn使用fcn公网数据服务器以及数据加密技术，将用户客户端�
 fcn = `fcn_server` + `fcn_client`
 
 * FCN使用交流QQ群: `592512533`
-* download FCN V2.5 beta http://pan.baidu.com/s/1eR9dfoA
 
-* download FCN V2.4 binary
+* download FCN V2.5 binary
 
-github https://github.com/boywhp/fcn/releases/download/V2.4/FCN_V2.4.zip
+github https://github.com/boywhp/fcn/releases/download/V2.5/FCN_V2.5.zip
 
-百度网盘 https://pan.baidu.com/s/1sl2jomD
+百度网盘 http://pan.baidu.com/s/1i5j5b61
 
-* download FCN V2.4 嵌入式Linux版本
+* download FCN V2.5 嵌入式Linux版本
 
-github https://github.com/boywhp/fcn/releases/download/V2.4_embed/FCN_V2.4-embedded.zip
+github https://github.com/boywhp/fcn/releases/download/V2.5_embed/FCN_V2.5-embeded.zip
 
-百度网盘 https://pan.baidu.com/s/1hsf0Uf6
+百度网盘 http://pan.baidu.com/s/1cH9ki6
 
 * FCN支持操作系统平台
 
