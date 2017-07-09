@@ -112,7 +112,7 @@ sudo ./fcn # 非ROOT用户使用sudo运行
 
 Linux客户端、服务端功能已整合在同一个可执行中，程序通过命令行参数决定启动客户端或服务端功能，客户端最常见参数如下：
 ```bash
-sudo ./fcn —uid FCN_0001 --svr SVR0001 --psk PASSWORD
+sudo ./fcn --uid FCN_0001 --svr SVR0001 --psk 'PASSWORD'
 ```
 Linux命令行客户端支持参数如下：
 
