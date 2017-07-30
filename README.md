@@ -15,7 +15,7 @@ fcn = `fcn_server` + `fcn_client`
 
 * download FCN V2.6 binary https://github.com/boywhp/fcn/releases/download/V2.6/FCN_V2.6.zip
 
-* download FCN V2.6 嵌入式Linux版本  https://github.com/boywhp/fcn/releases/download/V2.6/FCN_V2.6-embeded.zip
+* download FCN V2.6 嵌入式版本  https://github.com/boywhp/fcn/releases/download/V2.6/FCN_V2.6-embeded.zip
 
 * FCN支持操作系统平台
 
