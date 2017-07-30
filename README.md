@@ -11,17 +11,11 @@ fcn = `fcn_server` + `fcn_client`
 
 * FCN使用交流QQ群: `592512533`
 
-* download FCN V2.5 binary
+* download FCN V2.6 FULL 百度网盘 http://pan.baidu.com/s/1gfgSGCz
 
-github https://github.com/boywhp/fcn/releases/download/V2.5/FCN_V2.5.zip
+* download FCN V2.6 binary https://github.com/boywhp/fcn/releases/download/V2.6/FCN_V2.6.zip
 
-百度网盘 http://pan.baidu.com/s/1i5j5b61
-
-* download FCN V2.5 嵌入式Linux版本
-
-github https://github.com/boywhp/fcn/releases/download/V2.5_embed/FCN_V2.5-embeded.zip
-
-百度网盘 http://pan.baidu.com/s/1cH9ki6
+* download FCN V2.6 嵌入式Linux版本  https://github.com/boywhp/fcn/releases/download/V2.6/FCN_V2.6-embeded.zip
 
 * FCN支持操作系统平台
 
@@ -30,10 +24,10 @@ github https://github.com/boywhp/fcn/releases/download/V2.5_embed/FCN_V2.5-embed
 | Windows XP以上操作系统 | windows/fcn_win.exe
 | Linux 64bit | linux/fcn
 | Linux 32bit | linux/fcn32
-| Linux openwrt | linux-embedded/fcn-openwrt-`mips mt7620`
+| Linux openwrt | linux-embedded/fcn-openwrt-`mips mipsel`
 | Linux arm | linux-embedded/`fcn-arm armbian`
 
-Linux openwrt WR703N、华硕N14U、斐讯K2 Openwrt/Padavan实测通过，openwrt需安装`kmod-tun组件`
+Linux openwrt WR703N、华硕N14U、斐讯K2/K2P Openwrt/Padavan实测通过，openwrt需安装`kmod-tun组件`
 
 Linux arm/armbian 树莓派3、Orange Pi实测通过
 
@@ -48,14 +42,14 @@ http://pan.baidu.com/s/1o8r2w7g
 
 FCN Lan2Lan简介 http://weibo.com/ttarticle/p/show?id=2309404124768579250283
 
-|使用场景|描述
-|-------|---
-| 管理远程主机 | 无需公网IP对任意联网机器进行远程管理
-| 接入远程局域网 | 一键访问远程局域网网段
-| 远程客户演示 | FCN服务端支持IP及端口访问限制, 可临时提供有限网络访问权限
-| 远程虚拟组网 | 通过FCN虚拟网卡透过互联网组建虚拟局域网
-| 网络代理池 | FCN链路聚合同时连接多个服务端, 出口IP随机切换
-| Lan2Lan | 通过FCN客户端代理本地局域网机器访问远程局域网
+|使用场景|描述|实际操作
+|-------|---|--
+| 管理远程主机 | 无需公网IP对任意联网机器进行远程管理 | http://pan.baidu.com/s/1slpu4f7
+| 接入远程局域网 | 一键访问远程局域网网段 | http://pan.baidu.com/s/1gfP7ZCv
+| 远程客户演示 | FCN服务端支持IP及端口访问限制, 可临时提供有限网络访问权限 | http://pan.baidu.com/s/1qXND5bY
+| Lan2Lan | 通过FCN客户端代理本地局域网机器访问远程局域网 | http://pan.baidu.com/s/1slM5N6P
+| 远程虚拟组网 | 通过FCN虚拟网卡透过互联网组建虚拟局域网 | --
+| 网络代理池 | FCN链路聚合同时连接多个服务端, 出口IP随机切换 | --
 
 # 3. fcn使用
 
