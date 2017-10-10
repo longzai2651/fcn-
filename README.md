@@ -37,11 +37,13 @@ Linux arm/armbian 树莓派3、Orange Pi实测通过
 
 # 2. fcn常用使用场景
 
-FCN设计理念是: 用最简洁的界面操作, 提供一套完整的网络接入解决方案, 具体见PPT:
+FCN设计理念是, 用最简洁的界面操作, 提供一套完整的网络接入解决方案, 使用场景介绍见PPT
 
 http://pan.baidu.com/s/1o8r2w7g
 
-FCN Lan2Lan简介 http://weibo.com/ttarticle/p/show?id=2309404124768579250283
+FCN Lan2Lan简介 
+
+http://weibo.com/ttarticle/p/show?id=2309404124768579250283
 
 |使用场景|描述|实际操作
 |-------|---|--
