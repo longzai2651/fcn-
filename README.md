@@ -11,7 +11,7 @@ fcn = `fcn_server` + `fcn_client`
 
 * FCN使用交流QQ群: `592512533`
 
-* download FCN V2.7 FULL 百度网盘 http://pan.baidu.com/s/1gfgSGCz
+* download FCN V2.7 FULL 百度网盘 https://pan.baidu.com/s/1pKIZYLt
 
 * download FCN V2.7 binary https://github.com/boywhp/fcn/releases/download/V2.7/FCN_V2.7.zip
 
