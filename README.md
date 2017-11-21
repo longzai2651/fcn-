@@ -11,13 +11,11 @@ fcn = `fcn_server` + `fcn_client`
 
 * FCN使用交流QQ群: `592512533`
 
-* download FCN V3.0 BETA FULL 百度网盘 https://pan.baidu.com/s/1mhYa8xa
+* download FCN V3.0 FULL 百度网盘 https://pan.baidu.com/s/1pLsonhh
 
-* download FCN V2.7 FULL 百度网盘 https://pan.baidu.com/s/1pKIZYLt
+* download FCN V3.0 binary https://github.com/boywhp/fcn/releases/download/V3.0/FCN_V3.0.zip
 
-* download FCN V2.7 binary https://github.com/boywhp/fcn/releases/download/V2.7/FCN_V2.7.zip
-
-* download FCN V2.7 嵌入式版本  https://github.com/boywhp/fcn/releases/download/V2.7/FCN_V2.7-embeded.zip
+* download FCN V3.0 嵌入式版本  https://github.com/boywhp/fcn/releases/download/V3.0/linux-embeded.zip
 
 * FCN支持操作系统平台
 
