@@ -24,10 +24,10 @@ fcn = `fcn_server` + `fcn_client`
 | Windows XP以上操作系统 | windows/fcn_win.exe
 | Linux 64bit | linux/fcn_x64
 | Linux 32bit | linux/fcn_x86
-| Linux 路由器 | linux-embedded/fcn_`mips mipsel`_uclib
-| Linux arm | linux-embedded/`fcn-arm armbian`
+| Linux 路由器 | linux-embedded/fcn_`mips/mipsel/arm/armhf`_uclib
+| Linux arm | linux-embedded/`fcn-arm/armbian`
 
-Linux openwrt WR703N、华硕N14U、斐讯K2/K2P Openwrt/Padavan实测通过，openwrt需安装`kmod-tun组件`
+Linux openwrt/lede WR703N、华硕N14U、斐讯K2/K2P Openwrt/Padavan实测通过，openwrt/lede需自行安装`libopenssl`包
 
 Linux arm/armbian 树莓派3、Orange Pi实测通过
 
@@ -76,13 +76,14 @@ http://weibo.com/ttarticle/p/show?id=2309404124768579250283
 | [tport]| 自定义tcp通信端口, 默认8000，自定义[1000-2000], 建议不填
 | [pport]| 自定义p2p通信端口, 除非服务端可做端口映射，否则不要填
 | [fcn_svr]| 设置公网FCN服务器地址,默认s1.xfconnect.com, 建议不填
+| [notun]| 0/1, 0：自动 1：强制应用层NAT，建议不填
 
-由于需要操作底层网络数据转发,需要ROOT权限运行
+tun驱动模式NAT,需要ROOT权限运行；应用层NAT模式，非ROOT权限无法收发ping包
 ```shell
-./fcn_x64         # ROOT用户直接运行
-sudo ./fcn_x64    # 非ROOT用户使用sudo运行
+./fcn_x64         # 应用层NAT模式
+sudo ./fcn_x64    # tun驱动NAT模式
 ```
-注:FCN服务端只能运行一个实体, 更改配置后, 需要kill掉旧的进程, 否则会初始化失败错误
+注:FCN服务端一个配置只能运行一个实体, 更改配置后, 需要kill掉旧的进程, 否则会提示错误
 
 ## 3.2 开机自启动[Thanks to 榭寄生], debian linux环境
 
