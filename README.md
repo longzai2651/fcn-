@@ -108,7 +108,7 @@ sudo ./fcn_x64    # tun驱动NAT模式
 
 主界面添加服务器, 填写对应的连接参数, 连接, 成功后, windows客户端即接入了服务器对应局域网, 客户端/服务端参数对应如下
 
-![image](https://github.com/boywhp/fcn/blob/master/FCN%E7%BD%91%E7%BB%9C%E5%8F%82%E6%95%B0.png)
+![image](https://github.com/boywhp/fcn/blob/master/doc/FCN%E7%BD%91%E7%BB%9C%E5%8F%82%E6%95%B0.png)
 
 注:第一次连接时会自动安装虚拟网卡驱动,需用户确认同意
 
