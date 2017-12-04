@@ -33,11 +33,11 @@ Linux arm/armbian 树莓派3、Orange Pi实测通过
 
 * fcn接入原理示意图
 
-![image](https://github.com/boywhp/fcn/raw/master/FCN%E7%BD%91%E7%BB%9C%E7%A4%BA%E6%84%8F%E5%9B%BE.png)
+![image](https://github.com/boywhp/fcn/raw/master/doc/FCN%E7%BD%91%E7%BB%9C%E7%A4%BA%E6%84%8F%E5%9B%BE.png)
 
 * fcn接入 斐讯PSG1218/K2路由操作演示
 
-![image](https://github.com/boywhp/fcn/blob/master/fcn_k2_rt.gif)
+![image](https://github.com/boywhp/fcn/blob/master/doc/fcn_k2_rt.gif)
 
 # 2. fcn常用使用场景
 
@@ -45,7 +45,7 @@ FCN设计理念是, 用最简洁的界面操作, 提供一套完整的网络接�
 
 http://pan.baidu.com/s/1o8r2w7g
 
-FCN Lan2Lan简介 
+FCN Lan2Lan简介
 
 http://weibo.com/ttarticle/p/show?id=2309404124768579250283
 
