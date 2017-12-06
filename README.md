@@ -9,7 +9,7 @@ fcn使用fcn公网数据服务器以及数据加密技术，将用户客户端�
 
 fcn = `fcn_server` + `fcn_client`
 
-* FCN使用交流QQ群: `592512533`
+* FCN使用交流QQ群: `592512533` FCN交流论坛 http://bbs.xfconnect.com
 
 * download FCN V3.0 FULL 百度网盘 https://pan.baidu.com/s/1pLsonhh
 
